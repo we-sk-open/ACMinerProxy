@@ -40,8 +40,5 @@ ps -aux | grep "gost"
 </p>
 </p>
 ## 客户端编辑及编译说明
-![编译说明1](https://user-images.githubusercontent.com/100226405/178154638-a7947f3c-0a7b-4ab9-acfe-2c05597f51ca.JPG)
-![编译说明2](https://user-images.githubusercontent.com/100226405/178154648-2f9fd23a-e815-4229-b608-41da8db63e21.JPG)
-![编译说明3](https://user-images.githubusercontent.com/100226405/178154655-55e03857-1e6f-4543-81fd-583b8696bc51.JPG)
-![编译说明4](https://user-images.githubusercontent.com/100226405/178154661-7833045f-b6aa-4b1e-b0c3-29ecbba1c564.JPG)
-![编译说明5](https://user-images.githubusercontent.com/100226405/178154669-803a55e7-6b24-41b5-8b8b-ba7a0ffcef56.JPG)
+</p>
+</p>
